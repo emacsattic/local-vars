@@ -176,6 +176,6 @@ Usage: \( using-local-vars ... (local-var a value) ...  \)"
       
    )
 
-(provide 'local-vars )
+(provide 'local-vars)
 
 ;;; local-vars.el ends here
